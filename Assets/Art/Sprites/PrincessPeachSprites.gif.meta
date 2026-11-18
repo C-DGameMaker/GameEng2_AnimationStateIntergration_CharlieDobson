@@ -1,0 +1,3661 @@
+fileFormatVersion: 2
+guid: f93c57475b34cdf43b9ae9da407d46ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrincessPeachSprites_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1397
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2325f5f81629834c9077c2d13c1c23c
+      internalID: -1456060333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1397
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4feb4bf54bc3064bb07e7f6c2d0ac55
+      internalID: 1681440970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1397
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd83c520d1b92149b856333594aca7b
+      internalID: 1101985445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1397
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bddb9812a3875b4bb71b24074bb0f11
+      internalID: 813982311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1397
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b367684b7db6b45428d4275b6b9189d1
+      internalID: 234123060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1397
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e2300e01179cc45910f06eb1b53f30
+      internalID: -621609366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1307
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea73dc1120c7618419197071d8901d62
+      internalID: -2092882596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1307
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce91566080a4d0643b413201e00cb951
+      internalID: -1334387867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1307
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1707bd3189c17f84bac7334858831a29
+      internalID: 1139113031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1307
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a52f4601a230438f592651c92b9f4
+      internalID: -2060971831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1307
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc40388792c3e4fb76daf1b86e40b1
+      internalID: -1142493118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1307
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece2dd40e414472499f77b796229de7b
+      internalID: 1462474731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1307
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60aa14ed6d8d1d4fae96af6012fb38c
+      internalID: -1091970283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1307
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e5d7f14121dc94fa94e9e3f7964f16
+      internalID: -513714624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1307
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afcfd8c3a8d7ed488d942c02df7c141
+      internalID: -1876179988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1307
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0813fbda2fc5ae8478a162dbf147348b
+      internalID: -811399050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1307
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04e95001394814a8eb291ccf836805
+      internalID: -1855199165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1307
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c36cbf882ffaf54b9fe18e7a4f87601
+      internalID: -964833744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1223
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d3600ed474074badc25e0a362986c
+      internalID: 2104258229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1223
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a48f3ae1ab2e4a48a736ee17b013c01
+      internalID: -2082830926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1223
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb2d9661e6529e4eac92757d400c93a
+      internalID: -1383011144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1223
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d6c5051d7055a43ae206ad3cad6e0b
+      internalID: 2088784324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1223
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78079055477019649b8f9a4917d05d31
+      internalID: 1184738531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1223
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bce6fb742378b448225340b2d58391
+      internalID: -24155638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1143
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe90ab58cf729489447db0ddbb9c39
+      internalID: -1180196993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1143
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc9080fd633d6f4ca7693a6bc6f5bb1
+      internalID: -933594229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1143
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd6d5a1abe76a4aab212f60416c876
+      internalID: 1117329299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1143
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ce9ac7995dba458244b9e9e711c3f
+      internalID: -453592865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1065
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f015cddff8bbce42a99dce7f7205bfa
+      internalID: 1557175665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1065
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddab711445ed954d9ba8d82239f9436
+      internalID: 1973289905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1065
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f8fdc0615a11499d1d57a3272429f
+      internalID: 379603683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1065
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd10f2360401edf48b996f8cef40a736
+      internalID: 1978275453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 986
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c6cda9cd341964cb94477bdba5de8f
+      internalID: -1443280713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 986
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435db72e8d5b33479891ab47d1d58d6
+      internalID: -2147304853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 986
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4684aaa8f1e340547a4305b778e8866f
+      internalID: -747322353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 986
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da56a5f0d3aa388469edcf37f899ab7c
+      internalID: -1103013563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 986
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07722bde666cf12418a8f20716eb0fb6
+      internalID: 85900338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 986
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd67de44c2a07f44bb67b36977eec4d
+      internalID: 1748407838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_38
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 986
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aa0030c36a41140950a24931832278
+      internalID: -15678393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_39
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 986
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551ed180b68e9c45bf601d6a271bc4b
+      internalID: 884341534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_40
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 986
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a220a1bf8a362094a870426036976943
+      internalID: 178429579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 905
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc9c14ac6fb884ea61e53cef7393bc
+      internalID: -137572169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 905
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd40bcfa4e925d409faa4c966be989c
+      internalID: -2006994558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 905
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b9107ddff08d42bf2f11e14d6f9ca
+      internalID: 2147355523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 905
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fa0b38ce2716245a10dcb44a692f05
+      internalID: -1622972433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 905
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd05af6fce350c6428085744ba1dcff5
+      internalID: 1372803926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_46
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 905
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5a08e8887fbf479e85df93e787b9e
+      internalID: -991144556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 822
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27fb7af22cc98d4da698a150bdb15a7
+      internalID: 1393500010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 822
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b796ec78e2c78c145b9a8d0d254a64c4
+      internalID: -2035325158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 822
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1c89c24559e75438c4f5dc4091e91b
+      internalID: 1482898523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 822
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ab1fb94aeea841bbe452f66fb11a8
+      internalID: -714294066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 822
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e115acb7383d0f54584c27ca70d80272
+      internalID: 565650803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 822
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d05fe0f58b1a44dab8c057e5ea2b85
+      internalID: -1742480821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_53
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 822
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d05ebfde4387574f8a8e9998d06e206
+      internalID: 1752812141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_54
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 822
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76415ece2c1ad48bc3133b4a7a33e3
+      internalID: 161810668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 822
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd849bba041275479ba71959d4096d0
+      internalID: 813826780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_56
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 822
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c972e58f140ba4c989b94b24ec3351
+      internalID: 1795461045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_57
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 822
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4bccdf1cbfdb046a7351ac68502911
+      internalID: 1684183615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_58
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 822
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a28bab8255143847b32add40ec1b2ca
+      internalID: 293655865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_59
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 822
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17302e888136744aa22301add55fae
+      internalID: -172618227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_60
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 822
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6797e8120343541bad002c050dc2f2
+      internalID: 2088971851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 739
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892ae5bc5acd13f45af71acd6772fdca
+      internalID: -1342127142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 739
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1bd79a2027494183cafcadae81f9e
+      internalID: 433155673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 739
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0378ef0ef270fd46b2634aa45c45afb
+      internalID: -1226566190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 739
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e146739e1ca6843818ebff0b4d0a48
+      internalID: 1122976696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 739
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339b1d79014d25a49985ccfe3cade0a6
+      internalID: 1122511513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 739
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a82aada7ded2f4d9d3749fdb512599
+      internalID: 277369403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_67
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 739
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bae7373e8e8d9419b45381daca78cf
+      internalID: -1737253571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_68
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 739
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f633ccf855f9bf46b741dadd826942e
+      internalID: -942280203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_69
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 739
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bedbacd8aa80f4289c8711f95a2209
+      internalID: 1921619876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_70
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 739
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f8b71e97b31c4988ccc5811ef91f3
+      internalID: -33543921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 739
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800aeab2078669e48ae78df86e80fe2c
+      internalID: 723718838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_72
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 739
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2dab3c318b0f14a8a8cb3643d74f05
+      internalID: -1280269988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_73
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 739
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf319846cc04ff4b97f2ac259f2187b
+      internalID: -205271100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_74
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 739
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f4a8e74ec35a24cbb4374110793ebf
+      internalID: -826673736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 654
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f942d86374b4f65459b76b6c2d66ab6a
+      internalID: -1899580081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 654
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04659be98995ac49a483749224bbd27
+      internalID: -35493812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 654
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb54081eac7aba945b40ac5f1fc684e0
+      internalID: -2038850747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 654
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ffa7b62f256048a2f902cde21f606
+      internalID: -963725783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 654
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53097c04ff1521640bdbd41d468f3bf3
+      internalID: 427727466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 572
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8efd9b233b7e34593130752c5a354d
+      internalID: 1375966257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 572
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c4054481771a74895c8eaf29e9d1af
+      internalID: 1169910109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 572
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ca5bf4d9f293d41b228d982ee3000b
+      internalID: -1817988770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 572
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15df197922203e643bd2bfc681020477
+      internalID: 1013461912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 572
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a6458b42b29f44b73cd7fefbee410
+      internalID: 208879627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 572
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231817a434ef464aadf8c1fb98d87e6
+      internalID: 800964161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 572
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd339434bdb3345824341d14044641
+      internalID: 194655560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_87
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 572
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fdcd7dc0040184383cd4e4dab5459d
+      internalID: 48181788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_88
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 572
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59991cc8860efef40a67dfb0fb3302ff
+      internalID: 574769022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_89
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 572
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05082f68360e9b3448fdf2ebf1744b84
+      internalID: 410440488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 572
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf089b32442d154d9113a7ce8944ffc
+      internalID: -345201779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 508
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b62a8198873f7a479bcc1c5b793f115
+      internalID: 1859714645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 508
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722c36d1d4978b44eafb8c870f2925b0
+      internalID: 518348576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 508
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb488e24e423a84fb72562857f0dc90
+      internalID: -2095104852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_94
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 508
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9e036907c6bbd48a912cca9784906f
+      internalID: -643138289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_95
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 508
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5c6734c56d1e48967710f30665c41
+      internalID: -1491847008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_96
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 508
+        width: 82
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb4e03db530a74e8f56996d2a129d2
+      internalID: 184105211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_97
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 508
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e7b3cfe1910e545a498469f42516d8
+      internalID: -1764043088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_98
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 421
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df0a7e6671942b46ba121163a74569b
+      internalID: -1768535898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 421
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc1cb466c1fecc449680ada412067fe
+      internalID: 1065645697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 421
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe27c3ee346b6345aade634efada872
+      internalID: 971541255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 421
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd49e3eececa1c744a9a2fecbbfae0fc
+      internalID: -1544757396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_102
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 421
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da21d6cb2fb14d54980f39df24bbbbcc
+      internalID: -175508548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_103
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 421
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb399d06f7a5ba42b5465db1ee457bf
+      internalID: -1097445192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_104
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 421
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905d742749ea444589cb461f9783a9f
+      internalID: -498626847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_105
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 421
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e54e44d3e99d04aa70561dfe538b1c
+      internalID: -1416427146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_106
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 421
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74acb38c3ba26b74fa1d401097eb6c8b
+      internalID: -42030846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_107
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 421
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d806a82f74a62b149aa1bc59bdf4e875
+      internalID: 1666140392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_108
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 421
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c306b0591fa57714db9c7b2347406962
+      internalID: 1584162784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_109
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 421
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84151365847523441892bf7d229d2b09
+      internalID: -135738673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_110
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 421
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a14af8f2adf1948b2ac13907abcf11
+      internalID: -45064200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_111
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 334
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29187b958e0f9da498fd15213b1a366f
+      internalID: -1515690556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_112
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 334
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db2a6471eb550744a6083dadd152395
+      internalID: -1650830928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_113
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 334
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e859a008ae6343a682a10895bbf1f
+      internalID: -1336942315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_114
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 362
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f15e0072393a40b401b5c3ba1550b
+      internalID: 753633795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_115
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 348
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42086d18a93384b8c6e16303e7fea6
+      internalID: -1516852441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_116
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 348
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8dc8c6db4a36489ff6e8f1441618f
+      internalID: -615608437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_117
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 361
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763073b6cf0bbd48be6d651e6944e69
+      internalID: -1363797362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_118
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 250
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8483a0042f5044d809ea16ef6c72c2
+      internalID: -454797160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_119
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 250
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cfdb33f5907c048bef2291ac107d0d
+      internalID: -511061393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_120
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 250
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eadf3fa6df63d4bb19f042c04e05f4
+      internalID: -398180389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_121
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 250
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe106b5f6a151243943f40bfd2c7400
+      internalID: 93061821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_122
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 250
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200ecd7ee4801242a0e870986b5e764
+      internalID: -1883996953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_123
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 250
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e949e0a204c04c8a5893d25ca080d
+      internalID: -808323743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 250
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f228fd6b2e7b9d64d94ea93733069834
+      internalID: 1263580899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_125
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 250
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab3cbebe7c6aab48bab491ba378c062
+      internalID: 1505161330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_126
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 250
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8617f17c5c69a7458879b734273d775
+      internalID: -244558909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 250
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526e9695a9c48e4989b18ace4cb884e
+      internalID: -1675099302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_128
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 250
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87cd25d8fe04d74296aa0f86964b3bd
+      internalID: -345299373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_129
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 250
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17447beb0ac869e40a5c519c54dc43f7
+      internalID: -1031042368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_130
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 250
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe55fca37dcf454b89fefa44b3c62d9
+      internalID: -1022303558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_131
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 250
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b05467cf2b32dc4e9ad5ed3c1318655
+      internalID: 191393182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_132
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 250
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a571c61c23b024794d917493355fad
+      internalID: 1387808467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_133
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 167
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92691fb7ae9c9464faf926ddba59c47b
+      internalID: 1130425351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 167
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2239295dbba3114d9e19bb0733e9f23
+      internalID: 117929512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 94
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac91b7c2d6e23498108ba75ecc75fc
+      internalID: -422639895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_136
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9cb8c1af4f45247baa89487cc823a5
+      internalID: -24903561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_137
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 94
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad114795894e98a4aa06aa9bd500f3be
+      internalID: 1137575381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 94
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a6837793d6acf408a076ddf221e108
+      internalID: -294245345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_139
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 94
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e798368378c545843e652754cc4bc
+      internalID: 1995716014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_140
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 94
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a23df5a1664947ad5e6c121867ebe
+      internalID: 345210303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_141
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5653828cef2bfcc43aeb883001f6165a
+      internalID: -1317068000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_142
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058252f5dfa78d4da980ddc27b18c70
+      internalID: -1599576631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_143
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7b2b21505618c43b6703ae8defa7c5
+      internalID: -110338117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_144
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5117f25496d72fd4a9e5f5af6bf21e32
+      internalID: 1535002284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_145
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018ff86adc7bae439e62751b747ea65
+      internalID: 1710779864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_146
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 6
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce04f91d0a39fd84cb7d055fe08d6f82
+      internalID: -142129186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_147
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 6
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1934ae44593154489f33359c001e94
+      internalID: -96529898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_148
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 6
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0e2e5f92605344c8ea85ce016dc1fb
+      internalID: -983304021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_149
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c757914f4f21498eb7838a30a4fe0
+      internalID: -1871158260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_150
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 6
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101242ac6cf1acb44be5e3127c285a18
+      internalID: -486741256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_151
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 6
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c9459f465d2d4f8e671e54fb6174a
+      internalID: -323566347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_152
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 6
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe0d3754c08dc14bb07c9c74983ebea
+      internalID: -1930741742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessPeachSprites_153
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f59527104b26bf48b9e5bbe7c2d7725
+      internalID: -2011521093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 15b05b003e0aed345a1e2e4aaf3afa53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PrincessPeachSprites_0: -1456060333
+      PrincessPeachSprites_1: 1681440970
+      PrincessPeachSprites_10: -1142493118
+      PrincessPeachSprites_100: 971541255
+      PrincessPeachSprites_101: -1544757396
+      PrincessPeachSprites_102: -175508548
+      PrincessPeachSprites_103: -1097445192
+      PrincessPeachSprites_104: -498626847
+      PrincessPeachSprites_105: -1416427146
+      PrincessPeachSprites_106: -42030846
+      PrincessPeachSprites_107: 1666140392
+      PrincessPeachSprites_108: 1584162784
+      PrincessPeachSprites_109: -135738673
+      PrincessPeachSprites_11: 1462474731
+      PrincessPeachSprites_110: -45064200
+      PrincessPeachSprites_111: -1515690556
+      PrincessPeachSprites_112: -1650830928
+      PrincessPeachSprites_113: -1336942315
+      PrincessPeachSprites_114: 753633795
+      PrincessPeachSprites_115: -1516852441
+      PrincessPeachSprites_116: -615608437
+      PrincessPeachSprites_117: -1363797362
+      PrincessPeachSprites_118: -454797160
+      PrincessPeachSprites_119: -511061393
+      PrincessPeachSprites_12: -1091970283
+      PrincessPeachSprites_120: -398180389
+      PrincessPeachSprites_121: 93061821
+      PrincessPeachSprites_122: -1883996953
+      PrincessPeachSprites_123: -808323743
+      PrincessPeachSprites_124: 1263580899
+      PrincessPeachSprites_125: 1505161330
+      PrincessPeachSprites_126: -244558909
+      PrincessPeachSprites_127: -1675099302
+      PrincessPeachSprites_128: -345299373
+      PrincessPeachSprites_129: -1031042368
+      PrincessPeachSprites_13: -513714624
+      PrincessPeachSprites_130: -1022303558
+      PrincessPeachSprites_131: 191393182
+      PrincessPeachSprites_132: 1387808467
+      PrincessPeachSprites_133: 1130425351
+      PrincessPeachSprites_134: 117929512
+      PrincessPeachSprites_135: -422639895
+      PrincessPeachSprites_136: -24903561
+      PrincessPeachSprites_137: 1137575381
+      PrincessPeachSprites_138: -294245345
+      PrincessPeachSprites_139: 1995716014
+      PrincessPeachSprites_14: -1876179988
+      PrincessPeachSprites_140: 345210303
+      PrincessPeachSprites_141: -1317068000
+      PrincessPeachSprites_142: -1599576631
+      PrincessPeachSprites_143: -110338117
+      PrincessPeachSprites_144: 1535002284
+      PrincessPeachSprites_145: 1710779864
+      PrincessPeachSprites_146: -142129186
+      PrincessPeachSprites_147: -96529898
+      PrincessPeachSprites_148: -983304021
+      PrincessPeachSprites_149: -1871158260
+      PrincessPeachSprites_15: -811399050
+      PrincessPeachSprites_150: -486741256
+      PrincessPeachSprites_151: -323566347
+      PrincessPeachSprites_152: -1930741742
+      PrincessPeachSprites_153: -2011521093
+      PrincessPeachSprites_16: -1855199165
+      PrincessPeachSprites_17: -964833744
+      PrincessPeachSprites_18: 2104258229
+      PrincessPeachSprites_19: -2082830926
+      PrincessPeachSprites_2: 1101985445
+      PrincessPeachSprites_20: -1383011144
+      PrincessPeachSprites_21: 2088784324
+      PrincessPeachSprites_22: 1184738531
+      PrincessPeachSprites_23: -24155638
+      PrincessPeachSprites_24: -1180196993
+      PrincessPeachSprites_25: -933594229
+      PrincessPeachSprites_26: 1117329299
+      PrincessPeachSprites_27: -453592865
+      PrincessPeachSprites_28: 1557175665
+      PrincessPeachSprites_29: 1973289905
+      PrincessPeachSprites_3: 813982311
+      PrincessPeachSprites_30: 379603683
+      PrincessPeachSprites_31: 1978275453
+      PrincessPeachSprites_32: -1443280713
+      PrincessPeachSprites_33: -2147304853
+      PrincessPeachSprites_34: -747322353
+      PrincessPeachSprites_35: -1103013563
+      PrincessPeachSprites_36: 85900338
+      PrincessPeachSprites_37: 1748407838
+      PrincessPeachSprites_38: -15678393
+      PrincessPeachSprites_39: 884341534
+      PrincessPeachSprites_4: 234123060
+      PrincessPeachSprites_40: 178429579
+      PrincessPeachSprites_41: -137572169
+      PrincessPeachSprites_42: -2006994558
+      PrincessPeachSprites_43: 2147355523
+      PrincessPeachSprites_44: -1622972433
+      PrincessPeachSprites_45: 1372803926
+      PrincessPeachSprites_46: -991144556
+      PrincessPeachSprites_47: 1393500010
+      PrincessPeachSprites_48: -2035325158
+      PrincessPeachSprites_49: 1482898523
+      PrincessPeachSprites_5: -621609366
+      PrincessPeachSprites_50: -714294066
+      PrincessPeachSprites_51: 565650803
+      PrincessPeachSprites_52: -1742480821
+      PrincessPeachSprites_53: 1752812141
+      PrincessPeachSprites_54: 161810668
+      PrincessPeachSprites_55: 813826780
+      PrincessPeachSprites_56: 1795461045
+      PrincessPeachSprites_57: 1684183615
+      PrincessPeachSprites_58: 293655865
+      PrincessPeachSprites_59: -172618227
+      PrincessPeachSprites_6: -2092882596
+      PrincessPeachSprites_60: 2088971851
+      PrincessPeachSprites_61: -1342127142
+      PrincessPeachSprites_62: 433155673
+      PrincessPeachSprites_63: -1226566190
+      PrincessPeachSprites_64: 1122976696
+      PrincessPeachSprites_65: 1122511513
+      PrincessPeachSprites_66: 277369403
+      PrincessPeachSprites_67: -1737253571
+      PrincessPeachSprites_68: -942280203
+      PrincessPeachSprites_69: 1921619876
+      PrincessPeachSprites_7: -1334387867
+      PrincessPeachSprites_70: -33543921
+      PrincessPeachSprites_71: 723718838
+      PrincessPeachSprites_72: -1280269988
+      PrincessPeachSprites_73: -205271100
+      PrincessPeachSprites_74: -826673736
+      PrincessPeachSprites_75: -1899580081
+      PrincessPeachSprites_76: -35493812
+      PrincessPeachSprites_77: -2038850747
+      PrincessPeachSprites_78: -963725783
+      PrincessPeachSprites_79: 427727466
+      PrincessPeachSprites_8: 1139113031
+      PrincessPeachSprites_80: 1375966257
+      PrincessPeachSprites_81: 1169910109
+      PrincessPeachSprites_82: -1817988770
+      PrincessPeachSprites_83: 1013461912
+      PrincessPeachSprites_84: 208879627
+      PrincessPeachSprites_85: 800964161
+      PrincessPeachSprites_86: 194655560
+      PrincessPeachSprites_87: 48181788
+      PrincessPeachSprites_88: 574769022
+      PrincessPeachSprites_89: 410440488
+      PrincessPeachSprites_9: -2060971831
+      PrincessPeachSprites_90: -345201779
+      PrincessPeachSprites_91: 1859714645
+      PrincessPeachSprites_92: 518348576
+      PrincessPeachSprites_93: -2095104852
+      PrincessPeachSprites_94: -643138289
+      PrincessPeachSprites_95: -1491847008
+      PrincessPeachSprites_96: 184105211
+      PrincessPeachSprites_97: -1764043088
+      PrincessPeachSprites_98: -1768535898
+      PrincessPeachSprites_99: 1065645697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
