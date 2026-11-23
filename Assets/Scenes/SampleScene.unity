@@ -785,6 +785,7 @@ MonoBehaviour:
   jumpForce: 2
   moveInput: {x: 0, y: 0}
   playerRB: {fileID: 0}
+  playerAnimator: {fileID: 2072229140}
 --- !u!1 &2072229138
 GameObject:
   m_ObjectHideFlags: 0

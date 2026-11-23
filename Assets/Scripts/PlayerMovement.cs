@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -9,7 +10,12 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float jumpForce;
     [SerializeField] Vector2 moveInput;
     [SerializeField] Rigidbody playerRB;
-    
+    [SerializeField] Animator playerAnimator;
+    private int MoveInputXHash = Animator.StringToHash("moveInputX");
+    private int MoveInputYHash = Animator.StringToHash("moveInputY");
+    private int IsMovingHash = Animator.StringToHash("isMoving");
+
+
 
     private void Awake()
     {
@@ -19,11 +25,12 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         HandlePlayerMovement();
+        HandlePlayerAnimation();
     }
 
     private void Update()
     {
-        HandlePlayerAnimation();
+        
     }
 
     #region Movement
@@ -47,6 +54,17 @@ public class PlayerMovement : MonoBehaviour
 
     private void HandlePlayerAnimation()
     {
-        
+        if (moveInput != Vector2.zero)
+        {
+            playerAnimator.SetFloat(MoveInputXHash, moveInput.x);
+            playerAnimator.SetFloat(MoveInputYHash, moveInput.y);
+
+
+            playerAnimator.SetBool(IsMovingHash, true);
+        }
+        else
+        {
+            playerAnimator.SetBool(IsMovingHash, false);
+        }
     }
 }
